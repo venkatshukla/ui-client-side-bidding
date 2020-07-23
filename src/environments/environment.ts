@@ -7,7 +7,7 @@ export const environment = {
   apiEndPoint: 'https://venkatshukla.tk/v1/',
   advertiserIds: {
     google: '5f187ce89f1106612317a4f8',
-    mediaNet: '5f187ce89f1106612317a4f8'
+    mediaNet: '5f187d3c7204752d3b3346ef'
   }
 };
 
